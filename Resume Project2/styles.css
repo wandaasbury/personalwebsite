@@ -94,7 +94,7 @@ section p, .projects-list{
  padding: 10px;
  grid-gap: 5px;
  margin-left: 25%;
- margin-top: 50px;
+  margin-top: 50px;
 }
 
 .aboutme, .projects, .mythoughts, .flip-box {
